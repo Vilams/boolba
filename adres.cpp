@@ -16,7 +16,7 @@ int minima(int *arr, int N){
 			count=i;
 		}
 	}
-	cout<<"Min"<<' '<<min<<endl;
+	cout<<"M"<<' '<<min<<endl;
 	cout<<"Adres"<<' '<<&arr[count];
 
 }
