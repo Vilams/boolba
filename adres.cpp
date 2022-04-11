@@ -19,7 +19,7 @@ int main()
 	int a,b,f;
 	int size=100;
 	int *mass=new int [size];
-	for (int i = 0; i < 20; ++i)
+	for (int i = 0; i < 10; ++i)
 	{
 		cin>> mass[i];
 		
