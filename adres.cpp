@@ -28,8 +28,8 @@ int main()
 	for (int i = 0; i < 10; ++i)
 	{
 		cin>> mass[i];
-		
-
+		cout>>"pricol"
+;
 	}
 	cout<<endl;
 	cout<<"nam renge: ";
